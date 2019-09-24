@@ -1,4 +1,4 @@
-def roll_call_dwarves(dwarves)
+def roll_call_dwarves(dwarves, i)
   roll_call_dwarves.each_with_index do |i| 
     puts i
   end
